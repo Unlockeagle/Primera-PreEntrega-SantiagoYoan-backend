@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon src/app.js"
   },
-  "keywords": [],
+  "keywords": ["Santiago-Yoan"],
   "author": "",
   "license": "ISC",
   "description": "",
