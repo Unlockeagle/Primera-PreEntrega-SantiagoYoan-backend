@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "title": "Ana santiago",
+    "description": "This is a sample product description.",
+    "code": "SP001",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Paola Andrea",
+    "description": "This is a sample product description.",
+    "code": "SP002",
+    "price": 550,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": [
+      [
+        "hello",
+        "hola"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Ana santiago",
+    "description": "This is a sample product description.",
+    "code": "SP003",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Ana santiago",
+    "description": "This is a sample product description.",
+    "code": "SP004",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": [
+      "musica",
+      "pelicula"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ana santiago",
+    "description": "This is a sample product description.",
+    "code": "SP006",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": [
+      "musica",
+      "pelicula"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Ana santiago",
+    "description": "This is a sample product description.",
+    "code": "SP007",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": [
+      "musica",
+      "pelicula"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Ana santiago",
+    "description": "This is a sample product description.",
+    "code": "SP008",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": [
+      "musica",
+      "pelicula"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Ana santiago",
+    "description": "This is a sample product description.",
+    "code": "SP008",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": [
+      "musica",
+      "pelicula"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Ana santiago",
+    "description": "This is a sample product description.",
+    "code": "SP010",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": [
+      "musica",
+      "pelicula"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Ana santiago",
+    "description": "This is a sample product description.",
+    "code": "SP011",
+    "price": 150,
+    "status": true,
+    "stock": 10,
+    "category": "women",
+    "thumbnails": [
+      "musica",
+      "pelicula"
+    ]
+  }
+]
